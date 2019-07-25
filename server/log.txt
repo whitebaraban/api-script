@@ -1,0 +1,63 @@
+Operation time 22.32.33
+Operation detail 
+Номер заказы 20. Триггера №1
+arcticle = , price = 200
+arcticle = 1111, price = 400
+API request failed
+Operation time 22.33.33
+Operation detail 
+Номер заказы 20. Триггера №1
+arcticle = , price = 200
+arcticle = 1111, price = 500
+API request failed
+Operation time 22.34.33
+Operation detail 
+Номер заказы 2142. Триггера №1
+arcticle = , price = 200
+arcticle = 1111, price = 500
+API request completed
+Operation time 22.36.30
+Operation detail 
+Номер заказы 2142. Триггера №1
+arcticle = , price = 200
+arcticle = 1111, price = 500
+API request completed
+Operation time 22.36.41
+Operation detail 
+Номер заказы 2142. Триггера №1
+arcticle = , price = 200
+arcticle = 1111, price = 200
+API request completed
+Operation time 22.36.48
+Operation detail 
+Номер заказы 2142. Триггера №1
+arcticle = , price = 200
+arcticle = 1111, price = 200
+API request completed
+Operation time 22.37.33
+Operation detail 
+Номер заказы 2142. Триггера №1
+arcticle = , price = 200
+arcticle = 1111, price = 500
+API request completed
+
+Operation time 22.38.10
+Operation detail 
+Номер заказы 2142. Триггера №1
+arcticle = , price = 200
+arcticle = 1111, price = 3550
+API request completed
+
+Operation time 17.07.19 22:39:31
+Operation detail 
+Номер заказы 2142. Триггера №1
+arcticle = , price = 200
+arcticle = 1111, price = 350
+API request completed
+
+Operation time 21.07.19 16:26:01
+Operation detail 
+Номер заказы 20. Триггера №1
+arcticle = , retail price = 200 purchase price = 100
+arcticle = 1111, retail price = 400 purchase price = 100
+API request failed
